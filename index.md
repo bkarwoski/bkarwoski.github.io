@@ -1,123 +1,50 @@
 ---
 layout: default
+title: Blake Karwoski
+description: Personal Portfolio
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
+# Experience
+I've worked on software and hardware design at several robotics companies:
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+### [Carnegie Robotics](https://carnegierobotics.com/) (September - December 2020, Remote)
+I had two projects as a software engineer intern.
 
-# Header 1
+### [Tusimple](https://www.tusimple.com/) (May - August 2020, Tucson, AZ)
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+### [Zipline](https://flyzipline.com/) (June - August 2019, Half Moon Bay, CA)
 
-## Header 2
+### [DJI](https://enterprise.dji.com/) (May - August 2018, Palo Alto, CA)
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+* * *
+# Education
 
-### Header 3
+I'm a current M.S. student in the [University of Michigan's Robotics](https://robotics.umich.edu/) program, graduating May 2021.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+I graduated from Texas A&M University with a B.S. in Mechanical Engeering, Magna Cum Laude, with Engineering Honors. I worked with the [Unmanned Systems Lab](https://unmanned.tamu.edu/) on building a drive-by-wire shuttle platform.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+<p align="center">
+  <img src="shuttle.jpg" alt="Autonomous Pedestrian Transport" height="320"/>
+</p>
 
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
+<!-- ![Autonomous Pedestrian Transport](shuttle.jpg) -->
 
 * * *
 
-### Here is an unordered list:
+# Projects
+[star_align:](https://github.com/bkarwoski/star_align) Align and combine multiple star photos, to create images such as this page's header. This is a re-write of a [tool I'd made in python](https://github.com/bkarwoski/StarStack), to get more familiar with CMake and working with libraries like [OpenCV](https://github.com/opencv/opencv).
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+[Tree search controller:](https://github.com/bkarwoski/p4r) A three-part multithreaded project, written in pure C:
+* A 2D physics simulator with collision resolution
+* A tree search recursive path planner
+* A graphics generator for display and debugging
 
 
-### Definition lists can be used with HTML syntax.
+<p align="center">
+  <img src="chase_40_0_20.gif" alt="drawing" width="320"/>
+</p>
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+[Deepfake Detection:](https://arxiv.org/pdf/2006.14749.pdf) I implemented a frequency domain approach for detecting artificially created images, and trained it to classify fake videos from the Celeb-DF dataset.
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
