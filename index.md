@@ -2,6 +2,7 @@
 layout: default
 title: Blake Karwoski
 description: Personal Portfolio
+image: https://raw.githubusercontent.com/bkarwoski/bkarwoski.github.io/master/milky_way.jpg
 ---
 
 Hi! I'm Blake, and I'm a master's student at the University of Michigan studying robotics.
