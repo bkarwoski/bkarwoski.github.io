@@ -62,6 +62,12 @@ I graduated from Texas A&M University with a B.S. in Mechanical Engeering, Magna
 
 [Deepfake Detection:](https://arxiv.org/pdf/2006.14749.pdf) I implemented a frequency domain approach for detecting artificially created images, and trained it to classify fake videos from the Celeb-DF dataset.
 
+[Hackathons:](https://devpost.com/blakekarwoski) I've won prizes at eight hackathons, several of which are listed on my devpost profile. A personal favorite: [I wet my plants](https://devpost.com/software/my-plant-s-wet), a functional, automated plant watering machine built in under 24 hours. 
+
+<p align="center">
+  <img src="plants.jpeg" alt="plant watering machine" width="320"/>
+</p>
+
 # Involvement
 
 In my spare time, I supervise events for [Science Olympiad](https://www.soinc.org/) tournaments, a team-based science competition for middle & high school students.
