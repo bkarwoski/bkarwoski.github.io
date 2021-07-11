@@ -5,7 +5,7 @@ description: Personal Portfolio
 image: https://raw.githubusercontent.com/bkarwoski/bkarwoski.github.io/master/milky_way.jpg
 ---
 
-Hi! I'm Blake, and I'm a master's student at the University of Michigan studying robotics.
+Howdy! I'm Blake, and I'm a software engineer at [Nuro.ai](https://www.nuro.ai).
 
 # Experience
 I've worked on software and hardware design at several robotics companies:
@@ -37,7 +37,7 @@ I interned with the Oboard SDK team at DJI, which was developing a drone-based L
 
 # Education
 
-I'm a current M.S. student in the [University of Michigan's Robotics](https://robotics.umich.edu/) program, graduating May 2021.
+I'm a recent M.S. grad of the [University of Michigan's Robotics](https://robotics.umich.edu/) program.
 
 I graduated from Texas A&M University with a B.S. in Mechanical Engeering, Magna Cum Laude, with Engineering Honors. I worked with the [Unmanned Systems Lab](https://unmanned.tamu.edu/) on building a drive-by-wire shuttle platform.
 
